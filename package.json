@@ -1,0 +1,22 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jash6/MyPortfolio.git"
+  },
+  "author": "Jash Makhija",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jash6/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/jash6/MyPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
